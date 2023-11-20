@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Huehnematthew8
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, C
-- 💞️ I’m looking to collaborate on game design projects, search browsing
-- 📫 How to reach me: find me on league of legends s/d
+- 👀 I’m interested in Software/Web Development
+- 🌱 I’m currently learning JavaScript - jquery
+- 💞️ I’m looking to collaborate on front-end development 
 
 <!---
 Huehnematthew8/Huehnematthew8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
